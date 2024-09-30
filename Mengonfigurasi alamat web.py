@@ -1,4 +1,3 @@
-http://127.0.0.1:5000/random_fact
 from flask import Flask
 import random
 facts_list= [
